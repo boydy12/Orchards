@@ -5,9 +5,11 @@ To run this project get a mapbox api key and create a .env file in the top direc
 `REACT_APP_MAPBOX_TOKEN=API_KEY_HERE`
 
 Install npm packages
+----
 
 `npm i`
 
 Run the project
+---
 
 `npm start`
